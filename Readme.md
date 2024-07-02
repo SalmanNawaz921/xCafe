@@ -15,7 +15,7 @@ During my internship, I created a simple landing page for "xCafe" to facilitate 
 ## How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/xcafe.git
+   git clone https://github.com/salmannawaz921/xcafe.git
    ```
 
 2. **Navigate to the project directory**:
